@@ -5,6 +5,13 @@ A work by Megabits (Jinyu Meng). Distribute in CC-BY license.
 
 # Preview
 
+### Wallpapers
+
+<img src="https://github.com/megabitsenmzq/AOSC-10th-Wallpaper/blob/5a09d32fdeefb9254e4c5909b45d42ea64f699ba/Preview/dark.png?raw=true" width="30%"></img> <img src="https://github.com/megabitsenmzq/AOSC-10th-Wallpaper/blob/5a09d32fdeefb9254e4c5909b45d42ea64f699ba/Preview/light.png?raw=true" width="30%"></img> <img src="https://github.com/megabitsenmzq/AOSC-10th-Wallpaper/blob/5a09d32fdeefb9254e4c5909b45d42ea64f699ba/Preview/retro.png?raw=true" width="30%"></img> 
+
+### Video
+
+[![Thumbnail](https://i3.ytimg.com/vi/4oD7kVIjCyw/maxresdefault.jpg)](https://youtu.be/4oD7kVIjCyw)
 
 # Concept
 The main object in the scene is the number 10, referring to the 10th-anniversary. Then we have the three curves referring to the AOSC OS logo and theme color.
